@@ -5,10 +5,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr "Wbudowane grupy"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr "Wbudowani użytkownicy"
 
 msgid " Check Notifications for more details."
 msgstr "Sprawdź powiadomienia aby uzyskac więcej informacji"
@@ -17,7 +17,7 @@ msgid " Download Updates"
 msgstr "Pobierz Aktualziacje"
 
 msgid " First data vdev is a "
-msgstr ""
+msgstr "Pierwsze dane vdev to"
 
 msgid " First vdev has "
 msgstr " Pierwszy vdev ma "
@@ -58,16 +58,16 @@ msgid " and all snapshots of it?"
 msgstr "i wszytskie jego migawki?"
 
 msgid " and will be disrupted if the pool is detached:"
-msgstr ""
+msgstr "i zostanie zakłócony, jeśli pula zostanie odłączona:"
 
 msgid " and will be disrupted if the pool is locked:"
 msgstr " i zostanie przerwany jeśli pula zostanie zablokowana:"
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr "grupy wbudowane (ustawienie domyślne to <i> ukryte </i>)."
 
 msgid " builtin users (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr "wbudowani użytkownicy (ustawienie domyślne to <i> ukryte </i>)."
 
 msgid " but datastore "
 msgstr " magazyn danych"
@@ -85,7 +85,7 @@ msgid " is "
 msgstr "jest"
 
 msgid " is a required field."
-msgstr ""
+msgstr "jest polem wymaganym"
 
 msgid " is required."
 msgstr "jest wymagane"
@@ -102,25 +102,25 @@ msgid ""
 msgstr ""
 
 msgid " seconds"
-msgstr ""
+msgstr "sekundy"
 
 msgid " seconds."
-msgstr ""
+msgstr "sekundy."
 
 msgid " service has been enabled."
 msgstr "usługa została wyłączona"
 
 msgid " should be at least "
-msgstr ""
+msgstr "powinno być przynajmniej"
 
 msgid " should be no more than "
-msgstr ""
+msgstr "nie powinno być więcej niż"
 
 msgid " successfully saved."
 msgstr ""
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr "pomyślnie odblokowane"
 
 msgid " system is powered on and connected to the network."
 msgstr " system jest włączony i podłączony do sieci."
@@ -151,10 +151,10 @@ msgid "(24 Hours)"
 msgstr "(24 Godziny)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Przykłady: 500 KiB, 500M, 2 TB)"
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr "(Starsze szyfrowanie)"
 
 msgid "(No description)"
 msgstr "(Brak Opisu)"
@@ -163,10 +163,10 @@ msgid "(Remove pool from database)"
 msgstr "(Usuń pulę z bazy danych)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(w prawym górnym rogu), następnie"
 
 msgid ", new Metadata vdev is a "
-msgstr ""
+msgstr ", nowe metadane vdev to"
 
 msgid ", new vdev is "
 msgstr ", nowy vdev jest "
@@ -228,11 +228,16 @@ msgid ""
 "disks can be destroyed by setting the <b>Destroy data</b> option. Back up "
 "critical data <b>before</b> exporting/disconnecting the pool."
 msgstr ""
+</i>. Dane w puli nie będą dostępne po wyeksportowaniu. Dane dotyczące puli "
+"dyski można zniszczyć, ustawiając opcję <b> Zniszcz dane </b>. Utwórz kopię zapasową"
+"dane krytyczne <b> przed </b> eksportem / odłączeniem puli."
 
 msgid ""
 "</i>is in the database but not connected to the machine. If it was exported "
 "by  mistake, reconnect the hardware and use <b>Import Pool</b>.<br /><br />"
 msgstr ""
+"</i> znajduje się w bazie danych, ale nie jest podłączony do komputera. Jeśli został wyeksportowany "
+"przez pomyłkę ponownie podłącz sprzęt i użyj <b> Importuj pulę </b>. <br /> <br />"
 
 msgid ""
 "<a "
@@ -905,7 +910,7 @@ msgid "Add one or more disks to extend the pool."
 msgstr "Dodaj jeden lub więcej dysków, aby rozszerzyć pulę."
 
 msgid "Add or Update a License"
-msgstr ""
+msgstr "Dodaj lub zaktualizuj licencję"
 
 msgid "Add this user to additional groups."
 msgstr "Dodaj tego użytkownika do dodatkowych grup."
@@ -916,7 +921,7 @@ msgid ""
 msgstr ""
 
 msgid "Adding Vdevs to an encrypted pool resets the passphrase and recovery key!"
-msgstr ""
+msgstr "Dodanie Vdevs do zaszyfrowanej puli resetuje hasło i klucz odzyskiwania!"
 
 msgid "Adding data vdevs of different types is not supported."
 msgstr "Dodawanie vdev danych różnych typów nie jest obsługiwane."
